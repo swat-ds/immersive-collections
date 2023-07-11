@@ -1,10 +1,10 @@
 # Site settings
-title:       Trico Digital Scholarship Research Institute
+title:       "Immersive Collections Symposium:Diversifying Narratives through Embodied Learning"
 email:       digitalscholarship@swarthmore.edu
-author:      Trico DS
-description: "Digital Scholarship Research Intensive, Sponsored by Trico DS."
-baseurl:     "/dsri"
-url:         "http://ds-pages.swarthmore.edu/dsri"
+author:      Swarthmore DS
+description: "Diversifying Narratives through Embodied Learning"
+baseurl:     "/immersive-collections"
+url:         "http://ds-pages.swarthmore.edu/immersive-collections"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
