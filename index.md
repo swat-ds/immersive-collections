@@ -2,8 +2,10 @@
 layout: page
 id: home
 ---
-# Coming soon
-# About
+
+## Register [HERE](https://docs.google.com/forms/d/e/1FAIpQLScNak0jk_jjIXDhCHiMgqQo-sxpBglsHy0A2s_F_V7eVAIURg/viewform)
+
+### About
 
 The Immersive Collections Symposium will bring together library professionals, technologists, and humanities scholars who are using or would like to use immersive technology (XR)  to increase access and interaction with their collections. In the morning session, presenters will describe the application of Virtual Reality (VR), Augmented Reality (AR), and 3D modeling technologies to visualize archival objects, and explain the process as both a technological and scholarly intervention. After lunch, we will hold a demonstration to allow for hands-on experience exploring the XR applications. No experience with XR is required. 
 
@@ -18,9 +20,9 @@ Questions? Email Amanda Licastro at digitalscholarship@swarthmore.edu
 
 
 
-## Speakers (coming soon)
+## Speakers
 
-<!--div class="contributors-gallery">
+<div class="contributors-gallery">
 {% assign contributors = site.data.contributors %}
 
 {% for contributor in contributors %}
@@ -36,7 +38,15 @@ Questions? Email Amanda Licastro at digitalscholarship@swarthmore.edu
 <div class="clearfix"></div>
 </div>
 {% endfor %}
-</div-->
+</div>
+
+### Co-sponsored by
+
+Swarthmore Libraries, UCLA School of Education and Information Studies, and Andrew W. Mellon Society of Fellows in Critical Bibliography at Rare Book School
+
+Hosted by Amanda Licastro and Cindy A. Nguyen, Junior Fellows
+
+
 
 [![Swarthmore Libraries](images/swat-logo.png)](https://www.swarthmore.edu/libraries)
 {: .logos}

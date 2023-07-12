@@ -1,14 +1,35 @@
 
+synatra:
+  name: Dr. Synatra Smith
+  bio: is a Black eXpeRience researcher and sits at the intersection of researcher; gallery, library, archives, and museum (GLAM) professional; and digital humanities practitioner. In her postdoctoral fellowship she is exploring ways to bring extended reality (XR) tools into cultural preservation spaces as a mechanism for enhanced engagement with both physical and digital/virtual exhibitions. Storytelling and narrative-building are central to that experience and her goal is to identify ways to engage target user communities throughout the life of these projects through more inclusive means that integrate feedback loops and multiple intelligences. She is doing this work with the specific intention of documenting workflows that can be shared with students, cultural heritage workers, and scholars interested in building digital projects without relying on a large budget or team. Overall, she is eager to continue to advocate for the interest of institutions and individuals committed to the preservation of African-descended cultures and communities.
+  image: SynatraSmith_Headshot.jpg
+  school:
+
+jasmine:
+  name: Jasmine Lelis Clark
+  bio: is the Digital Scholarship and Africology & African American Studies Librarian at Temple University. Her primary areas of research are accessibility and metadata in emerging technology and emerging technology centers. Currently, she is leading The Virtual Blockson, a project to recreate and gamify the Charles L. Blockson Afro-American Collection in virtual reality to teach high school students primary literacy skills. She is also doing research in 3D metadata and accessibility guidelines for virtual reality experiences. She is also the chair of the DLF Digital Accessibility Working Group.  Jasmine has experience in a variety of functional areas and departments, including metadata, archives, digital scholarship, and communications and development. She is interested in the ways information organizations can integrate accessible, inclusive practices into their services, hiring, and management practices.
+  image: JasmineClark_Headshot.jpg
+  school: Temple University
+
+cidy:
+  name: Dr. Cindy Nguyen
+  bio: is assistant professor in the Information Studies department and Digital Humanities program at University of California, Los Angeles. Her book manuscript, Bibliotactics - Libraries and the Colonial Public in Vietnam, 1917-1958 reveals how the library reading room became a space of urban sociability, cultural imperialism, and self-directed education. Her digital humanities work bridges computation, critical data analysis, and histories of the book and information. Nguyen is also a public scholar and community artist exploring themes of memory, translation, and migration in the Asian diaspora. To learn more about her historical scholarship, teaching, and digital humanities work, see her website https://cindyanguyen.com
+  image: Cindy_Headshot.jpg
+  school: University of California, Los Angeles
+
+ha:
+  name: Ha To Tam
+  bio: was born in Northern of Vietnam. She attended Thai Nguyen College of Education and became a professor assistant at Thai Nguyen College of Education after graduation. She took a master course in Library and Information Sciences at Simmons College, Boston, MA., USA and got a master’s degree in 2008. She successfully developed the curriculum to open the undergraduate program in Library and Information Science (LIS) at Thai Nguyen University-College of Sciences. She was invited by Vingroup, the biggest Vietnamese economic group to become the library manager of VinUniversity development project in Hanoi, Vietnam in 2017. She has successfully developed one of the most modern academic libraries in Vietnam from the ground up for a newly established VinUniversity (a strategic partner of Cornell University and The University of Pennsylvania). She has been selected to become a fellow of Cunningham International Fellowship program by the Medical Library Association in 2018. Ms. Tam also had chances to share her experiences in developing a new academic library in Vietnam in international conferences, such as the conference on Tools of the Trade at Harvard University in March 2023.
+  image: Tam_Headshot.jpg
+  school:
+
 amanda:
-  name: Amanda Licastro
-  bio:  is the Digital Scholarship Librarian at Swarthmore College, the pedagogical director of the Book Traces project, and is an Andrew W. Mellon Junior Fellow in Critical Bibliography. Amanda serves on the editorial collective of the Journal of Interactive Technology and Pedagogy and is the Chair of the Committee on Digital Humanities for the Modern Language Association. Her research explores the intersection of technology and writing, including book history, dystopian literature, and digital humanities. Composition and Big Data, her collection co-edited with Ben Miller, was published by the University of Pittsburgh Press in September 2021, and you can find her work in journals such as Communication Design Quarterly, Hybrid Pedagogy and Kairos, as well as collections such as Critical Digital Pedagogy and Digital Reading and Writing in Composition Studies.
-  image: amanda.png
+  name: Dr. Amanda Licastro 
+  bio:  (she/her) is the Digital Scholarship Librarian at Swarthmore College, the pedagogical director of the Book Traces project, and is an Andrew W. Mellon Junior Fellow in Critical Bibliography. Amanda serves on the editorial collective of the Journal of Interactive Technology and Pedagogy and is the Chair of the Committee on Digital Humanities for the Modern Language Association. Her research explores the intersection of technology and writing, including book history, dystopian literature, and digital humanities. Composition and Big Data, her collection co-edited with Ben Miller, was published by the University of Pittsburgh Press in September 2021, and you can find her work in journals such as Communication Design Quarterly, Hybrid Pedagogy and Kairos, as well as collections such as Critical Digital Pedagogy and Digital Reading and Writing in Composition Studies.
+  image: Licastro_Headshot.jpg
   school: swarthmore
 
-roberto:
-  name: Roberto Vargas
-  bio: is the Head of Research & Instruction and the Research Librarian for Humanities + Interdisciplinary Studies at Swarthmore College. He is also responsible for supporting, developing and maintaining digital scholarship projects in collabroation with the Digital Scholarship Librarian. He commutes to work on his bike enjoying Philly and its surroundings in the very early dark mornings and slightly less in the traffic-heavy journey home. He enjoys reading anything by Stuart Hall and Eric Hobsbawm.
-  image: vargas.jpg
-  school: swarthmore
+
+
 
   
