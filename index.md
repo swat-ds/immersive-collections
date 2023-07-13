@@ -3,7 +3,7 @@ layout: page
 id: home
 ---
 
-## Register [HERE](https://docs.google.com/forms/d/e/1FAIpQLScNak0jk_jjIXDhCHiMgqQo-sxpBglsHy0A2s_F_V7eVAIURg/viewform)
+## Register [HERE](https://docs.google.com/forms/d/1aM8Amh_oqjOX-HZvjfPRxux6_qnLmP1wm9bAt0WJP2E/edit)
 
 ### About
 
