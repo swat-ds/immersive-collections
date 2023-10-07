@@ -3,7 +3,7 @@ layout: page
 id: home
 ---
 
-## Register [HERE](https://docs.google.com/forms/d/1aM8Amh_oqjOX-HZvjfPRxux6_qnLmP1wm9bAt0WJP2E/edit)
+## **Registration is now closed**
 
 ### About
 
